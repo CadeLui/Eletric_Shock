@@ -1,0 +1,6 @@
+name: Electric Shock
+version: ${project.version}
+main: io.cadeluinenburg.electricshock.electricshock.ElectricShock
+api-version: 1.16
+authors: [ CadeL ]
+description: What if, like, there was magic, but it was powered by electricity? And it was a server plugin instead of a client mod?
